@@ -1,0 +1,4 @@
+^LICENSE\.md$
+^data-raw$
+^package_creation\.R$
+^package_test\.R$
