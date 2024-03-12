@@ -9,9 +9,6 @@ dire_bonjour(prenom = NULL)
 \arguments{
 \item{prenom}{optional name of the person to whom say hello!}
 }
-\value{
-a character string giving the gear
-}
 \description{
 \code{dire_bonjour} say hello !
 }

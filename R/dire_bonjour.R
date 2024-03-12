@@ -4,8 +4,6 @@
 #'
 #' @param prenom optional name of the person to whom say hello! 
 #'
-#' @returns a character string giving the gear
-#'
 #' @author Jonathan Rault, \email{jonathan.rault@ifremer.fr}
 #'
 #' @examples
